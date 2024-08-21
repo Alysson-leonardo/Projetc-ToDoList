@@ -1,0 +1,13 @@
+.app {
+  max-width: 600px;
+  margin: auto;
+  background-color: rgb(214, 233, 250);
+  padding: 20px 30px;
+  border-radius: 10px;
+}
+h1 {
+  text-align: center;
+}
+input {
+  box-sizing: border-box;
+}
